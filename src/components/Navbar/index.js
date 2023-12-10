@@ -1,4 +1,4 @@
-import {Navbar, Logo} from './styledComponent'
+import {Navbar, Logo} from './styledComponents'
 
 const NavBar = () => (
   <Navbar>

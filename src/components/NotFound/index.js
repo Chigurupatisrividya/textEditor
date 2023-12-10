@@ -3,7 +3,7 @@ import {
   NotFoundImg,
   NotFoundH1,
   NotFoundP,
-} from './styledComponent'
+} from './styledComponents'
 
 const NotFound = () => (
   <NotFoundDiv>

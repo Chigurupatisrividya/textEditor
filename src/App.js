@@ -1,7 +1,7 @@
 import {Component} from 'react'
 import {Switch, Route} from 'react-router-dom'
 import './App.css'
-import HistoryContext from './Context/RegisterContext'
+import HistoryContext from './Context/RegisterCounter'
 import Home from './components/Home'
 import Register from './components/Register'
 import NotFound from './components/NotFound'

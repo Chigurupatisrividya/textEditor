@@ -1,5 +1,5 @@
 import NavBar from '../Navbar'
-import HistoryContext from '../../Context/RegisterContext'
+import HistoryContext from '../../Context/RegisterCounter'
 import {
   MainDiv,
   RegisterCardDiv,
@@ -12,7 +12,7 @@ import {
   Option,
   FormBtn,
   ErrP,
-} from './styledComponent'
+} from './styledComponents'
 
 const topicsList = [
   {

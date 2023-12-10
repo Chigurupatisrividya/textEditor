@@ -1,5 +1,5 @@
 import {Link} from 'react-router-dom'
-import HistoryContext from '../../Context/RegisterContext'
+import HistoryContext from '../../Context/RegisterCounter'
 
 import {
   MainDiv,
